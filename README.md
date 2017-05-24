@@ -1,6 +1,7 @@
 # LAMECO_VIS
 
 
+![alt text](http://i.imgur.com/bPtBv7N.png)
 Install node-opencv bindings first. Founde here: https://github.com/peterbraden/node-opencv
 
 Once installed clone this repository in: 
